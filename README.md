@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/imdadul-haque-97b7a3183/)    [Twitter](https://twitter.com/imdad_haque)   [StackOverflow](https://stackoverflow.com/users/14065992/imdadul-haque?tab=profile)
 - 😄 Pronouns: ... He/Him
-- ⚡ Motivae Myself: ...Teaching is the best way to learn !
+- ⚡ Motivate Myself: ...Teaching is the best way to learn !
 
 
 
