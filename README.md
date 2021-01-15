@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 6. [Form Validation App](https://imdadulhaque1.github.io/Expression_Validation_APP-using-JS/) Using HTML, CSS, JavaScript
 7. [Task List App](https://imdadulhaque1.github.io/Task_List-Using-JavaScript/) Using HTML, CSS, JavaScript
 8. [Number Guessing Game App](https://imdadulhaque1.github.io/Number-Guessing-Game-Using-JS/) Using HTML, CSS, JavaScript
-9. [Text to Voice Generator](https://imdadulhaque1.github.io/Book_List_App-Using-JavaScript/) Using HTML, CSS, JavaScript, API
+9. [Book List App](https://imdadulhaque1.github.io/Book_List_App-Using-JavaScript/) Using HTML, CSS, JavaScript, API
+10. [Text to Voice Generator](https://imdadulhaque1.github.io/TextToVoice_Using_API/) Using HTML, CSS, JavaScript, API
 10. [Basic Calculator](https://imdadulhaque1.github.io/basicCalculator/) Using HTML, CSS
 
 
