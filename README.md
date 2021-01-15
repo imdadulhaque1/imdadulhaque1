@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Motivae Myself: ...Teaching is the best way to learn !
 
-![a6b9b58d0cbee9e5b28b9c78b6b68f78](https://user-images.githubusercontent.com/45633928/104730579-808cf680-5764-11eb-9cb6-68a4da81e1a4.gif)`
+
 
 ![project_animate1](https://user-images.githubusercontent.com/45633928/104729343-7f5aca00-5762-11eb-9d30-9870e74252b1.gif)
 
