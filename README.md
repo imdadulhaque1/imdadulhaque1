@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 
 ![project_animate1](https://user-images.githubusercontent.com/45633928/104729343-7f5aca00-5762-11eb-9d30-9870e74252b1.gif)
-1. #### [Responsive Static Portfolio](https://imdadulhaque1.github.io/PortfoLio1440/) Using HTML, CSS, Bootstrap
-2. #### [Responsive Portfolio](https://imdadulhaque1.github.io/MyStaticPortfoLio/) Using HTML, CSS, JavaScript
+###Project List------->
+1. [Responsive Static Portfolio](https://imdadulhaque1.github.io/PortfoLio1440/) Using HTML, CSS, Bootstrap
+2. [Responsive Portfolio](https://imdadulhaque1.github.io/MyStaticPortfoLio/) Using HTML, CSS, JavaScript
 
 
 
