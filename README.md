@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 10. [Basic Calculator](https://imdadulhaque1.github.io/basicCalculator/) Using HTML, CSS
 
 ![publi](https://user-images.githubusercontent.com/45633928/105211941-0818a200-5b77-11eb-8801-f01092758e09.jpg)
-1. **Tittle: **[Papaya Disease Recognitionj Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
+1. **Tittle:** [Papaya Disease Recognitionj Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
 
