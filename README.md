@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Motivate Myself: ...Teaching is the best way to learn !
 
-![project_animate1](https://user-images.githubusercontent.com/45633928/104729343-7f5aca00-5762-11eb-9d30-9870e74252b1.gif)
-1. [Responsive Static Portfolio](https://imdadulhaque1.github.io/PortfoLio1440/) Using HTML, CSS, Bootstrap
+![project_animate1](https://user-images.githubusercontent.com/45633928/104729343-7f5aca00-5762-11eb-9d30-9870e74252b1.gif)1. [Responsive Static Portfolio](https://imdadulhaque1.github.io/PortfoLio1440/) Using HTML, CSS, Bootstrap
 2. [Responsive Portfolio](https://imdadulhaque1.github.io/MyStaticPortfoLio/) Using HTML, CSS, JavaScript
 3. [GitHub User Finder App](https://imdadulhaque1.github.io/Github_Finder_Using_JavaScript/) Using HTML, CSS, JavaScript
 4. [Shopping Card App](https://imdadulhaque1.github.io/Shopping_Cart_App-Using-JavaScript/) Using HTML, CSS, JavaScript
