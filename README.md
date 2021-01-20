@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... NodeJS
 - 🤔 I’m looking for help with ... Web developing
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/imdadul-haque-97b7a3183/)    [Twitter](https://twitter.com/imdad_haque)   [StackOverflow](https://stackoverflow.com/users/14065992/imdadul-haque?tab=profile)
+- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/imdadul-haque-97b7a3183/)    [Twitter](https://twitter.com/imdad_haque)   [StackOverflow](https://stackoverflow.com/users/14065992/imdadul-haque?tab=profile)    [ResearchGate](https://www.researchgate.net/profile/Imdadul_Haque2)
 - 😄 Pronouns: ... He/Him
 - ⚡ Motivate Myself: ...Teaching is the best way to learn !
 
@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 10. [Basic Calculator](https://imdadulhaque1.github.io/basicCalculator/) Using HTML, CSS
 
 
+![pub](https://user-images.githubusercontent.com/45633928/105211274-43ff3780-5b76-11eb-9b1a-a9c1b7ab5065.gif)
+1. **Tittle: **[Papaya Disease Recognitionj Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
 
