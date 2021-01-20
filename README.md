@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Motivate Myself: ...Teaching is the best way to learn !
 
-
-
 ![project_animate1](https://user-images.githubusercontent.com/45633928/104729343-7f5aca00-5762-11eb-9d30-9870e74252b1.gif)
 1. [Responsive Static Portfolio](https://imdadulhaque1.github.io/PortfoLio1440/) Using HTML, CSS, Bootstrap
 2. [Responsive Portfolio](https://imdadulhaque1.github.io/MyStaticPortfoLio/) Using HTML, CSS, JavaScript
@@ -29,7 +27,6 @@ Here are some ideas to get you started:
 10. [Text to Voice Generator](https://imdadulhaque1.github.io/TextToVoice_Using_API/) Using HTML, CSS, JavaScript, API
 10. [Basic Calculator](https://imdadulhaque1.github.io/basicCalculator/) Using HTML, CSS
 
-
-![pub](https://user-images.githubusercontent.com/45633928/105211274-43ff3780-5b76-11eb-9b1a-a9c1b7ab5065.gif)
+![publi](https://user-images.githubusercontent.com/45633928/105211941-0818a200-5b77-11eb-8801-f01092758e09.jpg)
 1. **Tittle: **[Papaya Disease Recognitionj Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
 
