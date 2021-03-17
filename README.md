@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 3. [I.H.-Photo Gallery](https://imdadulhaque1.github.io/photo_gallery-react_app/) Using ReactJS, JavaScript, bootstrap-5, CSS, HTML (Updating.....)
 
 ![publi](https://user-images.githubusercontent.com/45633928/105211941-0818a200-5b77-11eb-8801-f01092758e09.jpg)
-1. **Tittle:** [Papaya Disease Recognitionj Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
+1. **Tittle:** [Papaya Disease Recognition Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
+2. **Tittle:** [Malabar Nightshade Disease Detection Using Deep Learning Techniques](https://github.com/imdadulhaque1/Publications-2__MalabarNIghtshade-DiseaseDetectionUsingDeepLearning)
 
