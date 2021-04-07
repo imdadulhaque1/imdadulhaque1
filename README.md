@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 # Using ReactJS Projets are given below:
 1. [Animated Prortfolio](https://imdadulhaque1.github.io/imdadul-portfolio/) Using ReactJS, JavaScript, Bootstrap-5, CSS, HTML
 2. [Restaurant App](https://imdadulhaque1.github.io/restaurant-app/) Using ReactJS, JavaScript, bootstrap-4.5.1, CSS, HTML (Updating.....)
-3. [I.H.-Photo Gallery](https://imdadulhaque1.github.io/photo_gallery-react_app/) Using ReactJS, JavaScript, bootstrap-5, CSS, HTML (Updating.....)
+3. [I.H.-Photo Gallery](https://imdadulhaque1.github.io/photo_gallery-react_app/) Using Firebase(to store feedback), ReactJS, JavaScript, bootstrap-5, CSS, HTML
 4. [Burger builder](https://burger-builder-dd079.web.app) Using ReactJS, JavaScript, bootstrap-5, CSS, HTML (AUTHENTICATION with Firebase)
 
 ![publi](https://user-images.githubusercontent.com/45633928/105211941-0818a200-5b77-11eb-8801-f01092758e09.jpg)
