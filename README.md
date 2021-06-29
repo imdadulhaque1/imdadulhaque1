@@ -74,6 +74,21 @@ I have completed some paid course from Bohubrihi in bangla language and that's a
 # 7. Full Stack (MERN) Development
 (![Full Stack Development](https://user-images.githubusercontent.com/45633928/122680122-97ea7700-d20f-11eb-993d-136d597e1375.png))
 
+# 8. Number Guesser Game Using JavaAcript (Project Certificate)
+![NumberGuesserGame_using_JS](https://user-images.githubusercontent.com/45633928/123815542-66ad2d80-d918-11eb-87e8-c82c31cf9685.png)
+
+# 9. Making An Expression Validation App Using JavaScript (Project Certificate)
+![ExpressionValidation_using_JS](https://user-images.githubusercontent.com/45633928/123816054-d0c5d280-d918-11eb-9409-41309cae8525.png)
+
+# 10. Developing A Shopping Cart Using JavaScript (Project Certificate)
+![ShoppingCart_using_JS](https://user-images.githubusercontent.com/45633928/123816335-0bc80600-d919-11eb-87a0-d5c3f2266d04.png)
+
+# 11. Develop A Photo Gallery Website Using React (Project Certificate)
+![PhotoGallert_using_Reactjs](https://user-images.githubusercontent.com/45633928/123816881-82650380-d919-11eb-8d22-0a4ba10a226e.png)
+
+# 12. Develop A Simple Hotel Booking App Using React (Project Certificate)
+![HotelBooking_using_Reactjs](https://user-images.githubusercontent.com/45633928/123817056-a4f71c80-d919-11eb-872b-3d93ff9580cd.png)
+
 <!-- # 7. Django: Backend Web Development With Projects
 ![Djanggo Backend](https://user-images.githubusercontent.com/45633928/103068251-f202da80-45e6-11eb-8784-750b40f5cf2d.png)
 
