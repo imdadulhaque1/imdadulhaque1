@@ -104,10 +104,10 @@ I have completed some paid course from Bohubrihi in bangla language and that's a
 
 # Now, In this part I will share some of my online achievement which i cmpleted just for knowing so that I can learn about the below topics.
 
-# 8. Bond vs Stock: The Crash Course
+# 14. Bond vs Stock: The Crash Course
 ![BondVSStock](https://user-images.githubusercontent.com/45633928/103068841-4195d600-45e8-11eb-8e31-9bc75eb8988d.png)
 
-# 9. Introduction to DC Circuits
+# 15. Introduction to DC Circuits
 ![DC](https://user-images.githubusercontent.com/45633928/103068921-69853980-45e8-11eb-9b1f-d5d75641b81e.png)
 
 
