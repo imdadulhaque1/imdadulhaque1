@@ -56,41 +56,44 @@ Please visit the below link to show my Coursera Profile.
 # 2. Python crush course
 ![python crush course](https://user-images.githubusercontent.com/45633928/103067450-1bbb0200-45e5-11eb-9608-e1c9d2c54f01.png)
 
-# 3. Introduction to Applied Machine Learning
+# 3. Numpy using Python
+![NumpyBasics_ImdadulHaque](https://user-images.githubusercontent.com/45633928/126817158-5ef88126-9149-44b6-a25c-3e1e32734b35.png)
+
+# 4. Introduction to Applied Machine Learning
 ![Introduction to Applied ML](https://user-images.githubusercontent.com/45633928/103067591-748a9a80-45e5-11eb-8334-91ed9c05a97c.png)
 
-# 4. Introduction to Tensorflow for Artificial Intelligence, Machine Learning and Deep Learning
+# 5. Introduction to Tensorflow for Artificial Intelligence, Machine Learning and Deep Learning
 ![Intro to Tensorflow for AI_ML_DL](https://user-images.githubusercontent.com/45633928/103067602-7f452f80-45e5-11eb-85c7-b8016c25f7b7.png)
 
-# 5. Natural Language Processing in Tensorflow
+# 6. Natural Language Processing in Tensorflow
 ![NLP](https://user-images.githubusercontent.com/45633928/103067638-8f5d0f00-45e5-11eb-8d98-f6abae834526.png)
 
 # For Web Development
 I have completed some paid course from Bohubrihi in bangla language and that's are given below,
 
-# 6. HTML5, CSS3 & Bootstrap4 For Web Development
+# 7. HTML5, CSS3 & Bootstrap4 For Web Development
 ![HYML CSS](https://user-images.githubusercontent.com/45633928/103068065-8a4c8f80-45e6-11eb-85ce-a9da799397cb.png)
 
-# 7. Full Stack (MERN) Development
+# 8. Full Stack (MERN) Development
 (![Full Stack Development](https://user-images.githubusercontent.com/45633928/122680122-97ea7700-d20f-11eb-993d-136d597e1375.png))
 
-# 8. Number Guesser Game Using JavaAcript (Project Certificate)
+# 9. Number Guesser Game Using JavaAcript (Project Certificate)
 ![NumberGuesserGame_using_JS](https://user-images.githubusercontent.com/45633928/123815542-66ad2d80-d918-11eb-87e8-c82c31cf9685.png)
 
-# 9. Making An Expression Validation App Using JavaScript (Project Certificate)
+# 10. Making An Expression Validation App Using JavaScript (Project Certificate)
 ![ExpressionValidation_using_JS](https://user-images.githubusercontent.com/45633928/123816054-d0c5d280-d918-11eb-9409-41309cae8525.png)
 
-# 10. Developing A Shopping Cart Using JavaScript (Project Certificate)
+# 11. Developing A Shopping Cart Using JavaScript (Project Certificate)
 ![ShoppingCart_using_JS](https://user-images.githubusercontent.com/45633928/123816335-0bc80600-d919-11eb-87a0-d5c3f2266d04.png)
 
-# 11. Develop A Photo Gallery Website Using React (Project Certificate)
+# 12. Develop A Photo Gallery Website Using React (Project Certificate)
 ![PhotoGallert_using_Reactjs](https://user-images.githubusercontent.com/45633928/123816881-82650380-d919-11eb-8d22-0a4ba10a226e.png)
 
-# 12. Develop A Simple Hotel Booking App Using React (Project Certificate)
+# 13. Develop A Simple Hotel Booking App Using React (Project Certificate)
 ![HotelBooking_using_Reactjs](https://user-images.githubusercontent.com/45633928/123817056-a4f71c80-d919-11eb-872b-3d93ff9580cd.png)
                 
 # Database Releted:
-# 13. Introduction to MySQL
+# 14. Introduction to MySQL
 ![MySQL](https://user-images.githubusercontent.com/45633928/123951888-18a33300-d9c7-11eb-9168-a1942a5a9964.png)
 
 
@@ -104,10 +107,10 @@ I have completed some paid course from Bohubrihi in bangla language and that's a
 
 # Now, In this part I will share some of my online achievement which i cmpleted just for knowing so that I can learn about the below topics.
 
-# 14. Bond vs Stock: The Crash Course
+# 15. Bond vs Stock: The Crash Course
 ![BondVSStock](https://user-images.githubusercontent.com/45633928/103068841-4195d600-45e8-11eb-8e31-9bc75eb8988d.png)
 
-# 15. Introduction to DC Circuits
+# 16. Introduction to DC Circuits
 ![DC](https://user-images.githubusercontent.com/45633928/103068921-69853980-45e8-11eb-9b1f-d5d75641b81e.png)
 
 
