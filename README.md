@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![publi](https://user-images.githubusercontent.com/45633928/105211941-0818a200-5b77-11eb-8801-f01092758e09.jpg)
 1. **Tittle:** [Papaya Disease Recognition Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
 2. **Tittle:** [Malabar Nightshade Disease Detection Using Deep Learning Techniques](https://github.com/imdadulhaque1/Publications-2__MalabarNIghtshade-DiseaseDetectionUsingDeepLearning)
-<!-- 
+
 # Programming Contest Related Achievement
 1. ![Programming Contest](https://user-images.githubusercontent.com/45633928/122680601-cec18c80-d211-11eb-834a-5032b78601dc.png)
 
@@ -93,24 +93,24 @@ I have completed some paid course from Bohubrihi in bangla language and that's a
 ![HotelBooking_using_Reactjs](https://user-images.githubusercontent.com/45633928/123817056-a4f71c80-d919-11eb-872b-3d93ff9580cd.png)
                 
 # Database Releted:
-# 14. Introduction to MySQL -->
-<!-- ![MySQL](https://user-images.githubusercontent.com/45633928/123951888-18a33300-d9c7-11eb-9168-a1942a5a9964.png)
+# 14. Introduction to MySQL 
+ ![MySQL](https://user-images.githubusercontent.com/45633928/123951888-18a33300-d9c7-11eb-9168-a1942a5a9964.png)
 
 
-<!-- # 7. Django: Backend Web Development With Projects
+ # 7. Django: Backend Web Development With Projects
 ![Djanggo Backend](https://user-images.githubusercontent.com/45633928/103068251-f202da80-45e6-11eb-8784-750b40f5cf2d.png)
 
 # 8. Django: Blog, eCommerce & Social Media Website Projects
-![Djanggo PROJECT](https://user-images.githubusercontent.com/45633928/103068262-f8915200-45e6-11eb-8a34-42ffda9ce8bc.png) -->
+![Djanggo PROJECT](https://user-images.githubusercontent.com/45633928/103068262-f8915200-45e6-11eb-8a34-42ffda9ce8bc.png)
 
 
-<!-- 
+
 # Now, In this part I will share some of my online achievement which i cmpleted just for knowing so that I can learn about the below topics.
 
 # 15. Bond vs Stock: The Crash Course
 ![BondVSStock](https://user-images.githubusercontent.com/45633928/103068841-4195d600-45e8-11eb-8e31-9bc75eb8988d.png)
 
 # 16. Introduction to DC Circuits
-![DC](https://user-images.githubusercontent.com/45633928/103068921-69853980-45e8-11eb-9b1f-d5d75641b81e.png) -->
+![DC](https://user-images.githubusercontent.com/45633928/103068921-69853980-45e8-11eb-9b1f-d5d75641b81e.png) 
  
 
