@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 1. **Tittle:** [Papaya Disease Recognition Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
 2. **Tittle:** [Malabar Nightshade Disease Detection Using Deep Learning Techniques](https://github.com/imdadulhaque1/Publications-2__MalabarNIghtshade-DiseaseDetectionUsingDeepLearning)
 
+
+<!-- 
 # Programming Contest Related Achievement
 1. ![Programming Contest](https://user-images.githubusercontent.com/45633928/122680601-cec18c80-d211-11eb-834a-5032b78601dc.png)
 
@@ -112,5 +114,5 @@ I have completed some paid course from Bohubrihi in bangla language and that's a
 
 # 16. Introduction to DC Circuits
 ![DC](https://user-images.githubusercontent.com/45633928/103068921-69853980-45e8-11eb-9b1f-d5d75641b81e.png) 
- 
+  -->
 
