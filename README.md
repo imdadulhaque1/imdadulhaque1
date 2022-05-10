@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![publi](https://user-images.githubusercontent.com/45633928/105211941-0818a200-5b77-11eb-8801-f01092758e09.jpg)
 1. **Tittle:** [Papaya Disease Recognition Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
 2. **Tittle:** [Malabar Nightshade Disease Detection Using Deep Learning Techniques](https://github.com/imdadulhaque1/Publications-2__MalabarNIghtshade-DiseaseDetectionUsingDeepLearning)
+3. **Tittle:** [Classifying Pepper Disease Based on Transfer Learning: A Deep Learning Approach](https://github.com/imdadulhaque1/Publication-3__ClassifyingPepperDiseaseBasedOnTransferLearning-A_DeepLearningApproach/blob/main/README.md)
 
 
 <!-- 
