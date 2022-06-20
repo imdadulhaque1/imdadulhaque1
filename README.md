@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 1. **Tittle:** [Papaya Disease Recognition Using Deep Learning](https://github.com/imdadulhaque1/Publications-1-PapayaDiseaseRecognitionUsingDL)
 2. **Tittle:** [Malabar Nightshade Disease Detection Using Deep Learning Techniques](https://github.com/imdadulhaque1/Publications-2__MalabarNIghtshade-DiseaseDetectionUsingDeepLearning)
 3. **Tittle:** [Classifying Pepper Disease Based on Transfer Learning: A Deep Learning Approach](https://github.com/imdadulhaque1/Publication-3__ClassifyingPepperDiseaseBasedOnTransferLearning-A_DeepLearningApproach/blob/main/README.md)
+4. **Tittle:** [Examining The Risk Factors of Liver Disease: A Machine Learning Approach](https://github.com/imdadulhaque1/Publication-4-_TheRiskFactorsOfLiverDisease-A_MachineLearningApproach/blob/main/README.md)
 
 <!--
 
