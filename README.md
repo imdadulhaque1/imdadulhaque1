@@ -8,7 +8,7 @@
 <p align="center">
 </a>
 <a href="https://discord.gg/kgAvyxtTxv">
-<img src="https://img.shields.io/discord/734858252939952248?logo=discord&style=for-the-badge" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fdiscord-logo-png&psig=AOvVaw0aib56dHyQXw8332dq4Etw&ust=1675412832743000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjBs6e19vwCFQAAAAAdAAAAABAE" />
 </a>
 <!-- <a href="https://github.com/videosdk-live/videosdk-rtc-react-prebuilt-ui/issues">
 <img src="https://img.shields.io/github/issues/videosdk-live/videosdk-rtc-react-prebuilt-ui?label=PRs-welcome&logo=GitHub&style=for-the-badge" alt="GitHub badge"/>
