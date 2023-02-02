@@ -5,13 +5,6 @@
 
 <!-- https://user-images.githubusercontent.com/45633928/122670318-41674380-d1e3-11eb-89fd-35330b9c6cdd.mp4 -->
 
-
-<p align="center">
-<img width="400" src="https://static.videosdk.live/videosdk_logo_website_black.png"/>
-</p>
-
----
-
 <p align="center">
 </a>
 <a href="https://discord.gg/kgAvyxtTxv">
