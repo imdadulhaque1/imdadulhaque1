@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[![linkedin](https://user-images.githubusercontent.com/45633928/122668642-db76be00-d1da-11eb-9689-f610f9f17b69.png)](https://www.linkedin.com/in/imdadul-haque-97b7a3183/)     [![twitter](https://user-images.githubusercontent.com/45633928/122668655-ed586100-d1da-11eb-9d97-ca27729abd2f.png)](https://twitter.com/imdad_haque)     [![stack-overflow](https://user-images.githubusercontent.com/45633928/122668673-052fe500-d1db-11eb-9a14-081696b207b2.png)](https://stackoverflow.com/users/14065992/imdadul-haque?tab=profile)     [![researchgate-logo](https://user-images.githubusercontent.com/45633928/122669110-9d2ece00-d1dd-11eb-8a63-38fb836230bc.png)](https://www.researchgate.net/profile/Imdadul_Haque2)     [![publication](https://user-images.githubusercontent.com/45633928/122668751-66f04f00-d1db-11eb-808b-c30f3c93d3a6.png)](https://scholar.google.com/citations?hl=en&user=_vELggsAAAAJ)      [![icons8-hackerrank-32](https://user-images.githubusercontent.com/45633928/122668371-825a5a80-d1d9-11eb-88e2-c08720e31416.png)](https://www.hackerrank.com/_imdad_)     [![coursera_32_black](https://user-images.githubusercontent.com/45633928/122669045-3dd0be00-d1dd-11eb-8f00-8a1acae182d5.png)](https://www.coursera.org/accomplishments)
 - 😄 Pronouns: ... He/Him
 - ⚡ Motivate Myself: ...Teaching is the best way to learn !
-
+<!--
 ![project_animate1](https://user-images.githubusercontent.com/45633928/104729343-7f5aca00-5762-11eb-9d30-9870e74252b1.gif)
 1. [Responsive Static Portfolio](https://imdadulhaque1.github.io/PortfoLio1440/) Using HTML, CSS, Bootstrap
 2. [Responsive Portfolio](https://imdadulhaque1.github.io/MyStaticPortfoLio/) Using HTML, CSS, JavaScript
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 10. [Book List App with Local Host](https://imdadulhaque1.github.io/Book_List_App-Using-JavaScript/) Using HTML, CSS, JavaScript, API
 11. [Text to Voice Generator](https://imdadulhaque1.github.io/TextToVoice_Using_API/) Using HTML, CSS, JavaScript, API
 12. [Basic Calculator](https://imdadulhaque1.github.io/basicCalculator/) Using HTML, CSS
-
+-->
 # Using ReactJS Projets are given below:
 1. [Animated Prortfolio](https://imdadulhaque1.github.io/imdadul-portfolio/) Using ReactJS, JavaScript, Bootstrap-5, CSS, HTML
 2. [Restaurant App](https://imdadulhaque1.github.io/restaurant-app/) Using ReactJS, JavaScript, bootstrap-4.5.1, CSS, HTML (Updating.....)
